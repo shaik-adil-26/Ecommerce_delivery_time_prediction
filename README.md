@@ -37,8 +37,16 @@ data creation → preprocessing → model training → evaluation → real-time 
 
 ---
 
+## 👤 Author
+
+**Shaik Adil Altaf**
+BCA Student | Python Learner | AI & Data Science Enthusiast
+
+---
+## Contact
+📧 Email: shaikadil2600@gmail.com
+
+---
 
 
-Distance_km = 5
-Packages = 2
-Predicted Delivery Time ≈ 2 hours
+
